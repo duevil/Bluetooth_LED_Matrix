@@ -1,0 +1,17 @@
+
+M	cpp:S5028+"8Replace this macro by "const", "constexpr" or an "enum".(Ú¦íž
+V	cpp:S1235]"A'SoftwareSerial' has virtual functions but non-virtual destructor(˜Þœ‡
+M	cpp:S5028+"8Replace this macro by "const", "constexpr" or an "enum".(Ú¦íž
+V	cpp:S1235]"A'SoftwareSerial' has virtual functions but non-virtual destructor(˜Þœ‡
+M	cpp:S5028+"8Replace this macro by "const", "constexpr" or an "enum".(Ú¦íž
+V	cpp:S1235]"A'SoftwareSerial' has virtual functions but non-virtual destructor(˜Þœ‡
+C	cpp:S5817a")This function should be declared "const".(®·ºÅÿÿÿÿÿ
+L	cpp:S2681c"2This statement will not be executed conditionally.(Ÿè¨›ýÿÿÿÿ
+F	cpp:S3471d"2Annotate this function with "override" or "final".(øž¨O
+D	cpp:S3471f"/Use "override" or "final" instead of "virtual".(¨¿ûÂ
+D	cpp:S3471g"/Use "override" or "final" instead of "virtual".(ÙÎ„Ÿ
+D	cpp:S3471h"/Use "override" or "final" instead of "virtual".(³èÖé
+D	cpp:S3471i"/Use "override" or "final" instead of "virtual".(¢™”´
+q	cpp:S1709j"WReplace this conversion operator with a function or (C++11) add the "explicit" keyword.(„àúÿÿÿÿ
+C	cpp:S5817j")This function should be declared "const".(„àúÿÿÿÿ
+R	cpp:S3548o">Move the "inline" specifier to the definition of the function.(ú¾†Y

@@ -1,0 +1,15 @@
+
+M	cpp:S5028#"8Replace this macro by "const", "constexpr" or an "enum".(Àë±ä
+R	cpp:S5028$"8Replace this macro by "const", "constexpr" or an "enum".(¿«ƒÃşÿÿÿÿ
+M	cpp:S5028%"8Replace this macro by "const", "constexpr" or an "enum".(Üà”•
+q	cpp:S5276µ"Vimplicit conversion loses integer precision: 'long' to 'uint16_t' (aka 'unsigned int')(‰ÙÙøÿÿÿÿ
+k	cpp:S5276ì"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ìòÉ£
+/	cpp:S49622"Use the "nullptr" literal.(ûâø¤
+s	cpp:S1186I"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÀöŒ¡ÿÿÿÿÿ
+{	cpp:S6191b"ause of result of assignment to object of volatile-qualified type 'volatile uint8_t' is deprecated(ç çøÿÿÿÿ
+4	cpp:S4962r"Use the "nullptr" literal.(ìÓİÿÿÿÿÿ
+D	cpp:S5817Ñ")This function should be declared "const".(•õë‚øÿÿÿÿ
+‹	cpp:S3230ı"pDo not use the constructor's initializer list for data member "_tx_delay". Use the in-class initializer instead.(ùø¼˜úÿÿÿÿ
+”	cpp:S3230û"yDo not use the constructor's initializer list for data member "_rx_delay_intrabit". Use the in-class initializer instead.(üÍÎ·ÿÿÿÿÿ
+“	cpp:S3230ü"xDo not use the constructor's initializer list for data member "_rx_delay_stopbit". Use the in-class initializer instead.(°õê‚ıÿÿÿÿ
+•	cpp:S3230ú"zDo not use the constructor's initializer list for data member "_rx_delay_centering". Use the in-class initializer instead.(İÅ¾”ıÿÿÿÿ
